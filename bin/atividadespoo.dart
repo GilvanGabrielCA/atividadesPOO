@@ -1,7 +1,8 @@
-// ignore: unused_import
+// ignore_for_file: unused_import
 import 'package:atividadespoo/ATV1/atv1.dart';
-// ignore: unused_import
 import 'package:atividadespoo/ATV2/atv2.dart';
+import 'package:atividadespoo/ATV3/atv3.dart';
+
 void main() {
   /*ItemEstoque smartphone = ItemEstoque("Smartphone", 100, 3500.0);
   ItemEstoque notebook = ItemEstoque("Notebook", 50, 5000.00);
@@ -51,4 +52,51 @@ void main() {
   clienteUm.fazerReserva("102");
   clienteUm.fazerReserva("103");
   clienteUm.cancelarReserva("102");*/
+
+  /*Cachorro rex = Cachorro();
+  rex.emitirSom();
+  rex.abanarRabo();
+
+  print("");
+
+  Gato lily = Gato();
+  lily.emitirSom();
+  lily.arranharMoveis();*/
+
+  /*QuartoSimples quartoSimples = QuartoSimples(3);
+  quartoSimples.reserva();
+  quartoSimples.calcularValorTotal();
+
+  print("");
+
+  QuartoMedio quartoMedio = QuartoMedio(5);
+  quartoMedio.reserva();
+  quartoMedio.cafeDaManha();
+  quartoMedio.calcularValorTotal();
+
+  print("");
+
+  QuartoLuxo quartoLuxo = QuartoLuxo(7);
+  quartoLuxo.reserva();
+  quartoLuxo.cafeDaManha();
+  quartoLuxo.servicoDeQuarto();
+  quartoLuxo.calcularValorTotal();*/
+
+  /*Fruta fruta = Fruta("Banana", "Fruta");
+  Legume legume = Legume("Cenoura", "Legume");
+  Tempero tempero = Tempero("Sal", "Tempero");
+
+  print("");
+
+  fruta.detalhes();
+
+  print("");
+
+  legume.detalhes();
+
+  print("");
+
+  tempero.detalhes();
+
+  print("");*/
 }
