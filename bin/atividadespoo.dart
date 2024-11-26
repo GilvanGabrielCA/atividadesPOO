@@ -1,6 +1,6 @@
-import 'atv1.dart';
+import 'ATV1/atv1.dart';
 void main() {
-  ItemEstoque smartphone = ItemEstoque("Smartphone", 100, 3500.0);
+  /*ItemEstoque smartphone = ItemEstoque("Smartphone", 100, 3500.0);
   ItemEstoque notebook = ItemEstoque("Notebook", 50, 5000.00);
   ItemEstoque tv = ItemEstoque("TV", 150, 2350.0);
   ItemEstoque ps5 = ItemEstoque("PS5", 20, 5500.0);
@@ -40,5 +40,5 @@ void main() {
   for (ItemEstoque produto in produtos){
     print("Produto: ${produto.nomeProduto}, Quantidade em estoque: ${produto.quantidade}, Preço: ${produto.preco}");
   }
-  print("");
+  print("");*/
 }
