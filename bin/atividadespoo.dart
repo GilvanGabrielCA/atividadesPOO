@@ -1,4 +1,7 @@
-import 'ATV1/atv1.dart';
+// ignore: unused_import
+import 'package:atividadespoo/ATV1/atv1.dart';
+// ignore: unused_import
+import 'package:atividadespoo/ATV2/atv2.dart';
 void main() {
   /*ItemEstoque smartphone = ItemEstoque("Smartphone", 100, 3500.0);
   ItemEstoque notebook = ItemEstoque("Notebook", 50, 5000.00);
@@ -41,4 +44,11 @@ void main() {
     print("Produto: ${produto.nomeProduto}, Quantidade em estoque: ${produto.quantidade}, Preço: ${produto.preco}");
   }
   print("");*/
+
+  /*Cliente clienteUm = Cliente("Joaquim", []);
+
+  clienteUm.fazerReserva("101");
+  clienteUm.fazerReserva("102");
+  clienteUm.fazerReserva("103");
+  clienteUm.cancelarReserva("102");*/
 }
